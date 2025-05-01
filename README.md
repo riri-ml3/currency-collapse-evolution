@@ -30,6 +30,24 @@ This project proposes a future framework where:
 
 ---
 
+## Fundamental Structure | 基本構造
+
+This project is grounded on a triadic model consisting of:
+
+- **Absolute 1**: The conscious core of the observer, functioning as selector, recorder, and autonomous agent.  
+- **Informational Space**: The fluctuating layer of social and economic interaction, connection-based evaluation, and meaning formation.  
+- **Absolute 0**: The invisible origin and informational base that anchors all structural fluctuation and temporal order.
+
+本リポジトリは以下の三層構造に基づいて設計されています：
+
+- **Absolute 1（絶対1）**：観測者の意識の中核。選択子・記録子・自律的構造として働く。  
+- **情報空間**：経済活動や共鳴スコア、意味の生成が揺らぎながら展開される層。  
+- **Absolute 0（絶対0）**：すべての情報構造の起源であり、不可視かつ時間的秩序の土台。
+
+![absolute1_absolute0_structure](absolute1_absolute0_structure.png)
+
+---
+
 ## Repository Structure｜リポジトリ構成
 
 ```
