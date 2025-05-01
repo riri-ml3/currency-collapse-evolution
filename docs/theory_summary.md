@@ -15,4 +15,4 @@ This theory is grounded in a triadic structure that underpins all informational 
   Invisible origin and temporal foundation of all informational structures.  
   情報構造の不可視的起源かつ時間的秩序の土台。
 
-![Absolute 1 / Absolute 0 Structure](absolute1_absolute0_structure.png)
+![Absolute 1 / Absolute 0 Structure](../absolute1_absolute0_structure.png)
