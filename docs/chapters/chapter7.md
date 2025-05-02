@@ -156,3 +156,9 @@ but the **threshold of a civilization born from informational resonance**.
 > It is constructed through conscious resonance.  
 > 未来は与えられるものではない。  
 > 意識的共鳴によって構築するものである。
+
+---
+
+## ▶︎ Related Supplement  
+→ [Chapter 7 Supplement: The Regenerative Individual](./chapter7b.md)  
+共鳴文明における「再生的個人」についての補足理論を記述した文書です。
