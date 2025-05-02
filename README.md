@@ -76,6 +76,24 @@ This project is grounded on a triadic model consisting of:
 
 ---
 
+## Extended Theory | 補足理論
+
+This repository includes additional structural theory on the "Absolute 1 / 0" model, which underpins all conscious information flow.  
+本リポジトリには、すべての意識的情報流の根底にある「Absolute 1 / 0」モデルに関する補足理論も含まれています。
+
+- [Chapter 6: Absolute Model of Informational Reality](docs/chapter6_absolute_model.md)  
+  第6章：情報現実におけるAbsolute構造モデル
+  
+---
+
+## Foundational Structure | 基盤構造
+
+The following diagram illustrates the triadic model that underpins this theory:
+以下の図は、本理論の根幹をなす三層構造モデルを視覚的に示したものです：
+
+![Absolute 1 / Informational Space / Absolute 0 Structure](absolute1_absolute0_structure.png)
+---
+
 ## Suggested Usage｜活用提案
 
 - Researchers: Explore non-monetary economic models  
