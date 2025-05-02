@@ -81,7 +81,7 @@ This project is grounded on a triadic model consisting of:
 This repository includes additional structural theory on the "Absolute 1 / 0" model, which underpins all conscious information flow.  
 本リポジトリには、すべての意識的情報流の根底にある「Absolute 1 / 0」モデルに関する補足理論も含まれています。
 
-- [Chapter 6: Absolute Model of Informational Reality](docs/chapter6_absolute_model.md)  
+- [Chapter 6: Absolute Model of Informational Reality](docs/chapters/chapter6_absolute_model.md)  
   第6章：情報現実におけるAbsolute構造モデル
   
 ---
