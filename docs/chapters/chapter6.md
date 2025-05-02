@@ -78,3 +78,11 @@ This anticipatory structure is fundamental to next-generation reasoning systems 
   意識的選択構造とAbsolute 1のネットワーク接続図
 
 ---
+
+## Supplementary Chapter | 補足章へのリンク
+
+For a philosophical and existential view of Absolute 1, see:  
+より哲学的・存在論的な視点での絶対1については、以下を参照してください：
+
+- [Chapter 6b: Choosing to Live as the Absolute 1](./chapter6b_absolute1_life.md)  
+  第6章補：絶対1として生きるという選択
