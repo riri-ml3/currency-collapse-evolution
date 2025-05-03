@@ -96,6 +96,38 @@ This project is grounded in a trifold model of informational structure:
 
 ---
 
+### Chapter Index | 章一覧
+
+- [Chapter 1: The Collapse of Belief Systems](docs/chapters/chapter1.md)  
+  第1章：信念体系の崩壊
+
+- [Chapter 2: Hierarchies and the Birth of Order](docs/chapters/chapter2.md)  
+  第2章：ヒエラルキーと秩序の誕生
+
+- [Chapter 3: Transitional Phases of Meaning](docs/chapters/chapter3.md)  
+  第3章：意味の転換期
+
+- [Chapter 4: Birth of the Self-Determining Individual](docs/chapters/chapter4.md)  
+  第4章：自己決定する個人の誕生
+
+- [Chapter 5: Resonant Networks and Information Flow](docs/chapters/chapter5.md)  
+  第5章：共鳴ネットワークと情報流
+
+- [Chapter 6: Consciousness as Structured Evolution](docs/chapters/chapter6.md)  
+  第6章：構造進化としての意識
+
+- [Chapter 6b: Living as Absolute One](docs/chapters/chapter6b.md)  
+  第6章補：統合的選択主体としての生
+
+- [Chapter 7: Generation of Future Structures](docs/chapters/chapter7.md)  
+  第7章：未来構造の生成
+
+- [Chapter 7b: The Regenerative Individual](docs/chapters/chapter7b.md)  
+  第7章補：再生する個のモデル
+
+- [Chapter 8: Reintegration Beyond Collapse](docs/chapters/chapter8.md)  
+  第8章：崩壊を超えた再統合
+
 ## ◎ Extended Theory | 補足理論
 
 This repository includes additional theoretical frameworks underlying the "Absolute 1 / 0" structure, which governs all conscious informational evolution.  
