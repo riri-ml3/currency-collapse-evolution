@@ -85,21 +85,58 @@ This project is grounded in a trifold model of informational structure:
 /figures/
   jump_resonance_loop.png  
   conscious_choice_network.png  
-  absolute1_absolute0_structure.png
+  absolute1_absolute0_structure.png  
+  transformation_of_information_order.png  
+  structure_of_individual_change.png  
+  structure_of_future_order.png  
+  two_layer_model_physical_informational.png  
+  collapse_and_new_order.png  
+  credit_connection_evaluation.png
 ```
 
 ---
 
-## ◉ Suggested Usage | 活用提案
+## ◎ Extended Theory | 補足理論
 
-- **Futurists / Economists**：For theorizing post-monetary socio-economic structures  
-  フューチャリスト／経済学者：通貨以後の社会経済構造の理論化に  
-- **Developers / AI Engineers**：As architecture reference for decentralized agents  
-  開発者／AIエンジニア：分散型エージェントの構造設計の参照として  
-- **Philosophers / Thinkers**：To explore the interplay of self, structure, and time  
-  哲学者／思想家：自己・構造・時間の連関を探究するために  
-- **Educators / Artists**：As a foundation for creative and social experimentation  
-  教育者／アーティスト：創造的・社会的実験の理論基盤として活用可能
+This repository includes additional theoretical frameworks underlying the "Absolute 1 / 0" structure, which governs all conscious informational evolution.  
+本リポジトリには、あらゆる意識的情報進化を支える「Absolute 1 / 0」構造に関する補足理論が含まれています。
+
+These supplementary models provide a deeper view of the origin, fluctuation, and preservation of meaning across time, identity, and resonance systems.  
+この補足モデルは、意味の起源・揺らぎ・保存を、時間・自己・共鳴システムにまたがって深く理解するための視座を提供します。
+
+- **Chapter 6: Absolute Model of Informational Reality**  
+  [Link → Chapter6 Absolute構造モデル](./docs/chapters/chapter6.md)  
+
+- **Chapter 6b: Living as Absolute One**  
+  [Link → Chapter6b 統合的選択主体としての生](./docs/chapters/chapter6b.md)
+  
+---
+
+## ◎ Suggested Usage | 活用提案
+
+- **Futurists / Economists** : For theorizing post-monetary socio-economic structures  
+  フューチャリスト／経済学者：通貨以後の社会経済構造の理論化に
+
+- **Researchers / Theorists** : As a deep structural model for studying consciousness, system evolution, and informational dynamics  
+  研究者／理論家：意識・システム進化・情報動態の深層構造モデルとして
+
+- **Developers / AI Engineers** : For decentralized ID, trust networks, and choice architecture system design  
+  開発者／AIエンジニア：分散型ID・信頼ネットワーク・選択構造設計の基盤理論として
+
+- **Philosophers / Thinkers** : To examine the fundamental relationship between self, time, and informational structure  
+  哲学者／思想家：自己・時間・情報構造の根源的関係を考察するために
+
+- **Educators** : As a curriculum foundation to foster systems thinking and transdisciplinary learning  
+  教育者：システム的思考と学際的学習を育むための教育基盤として
+
+- **Artists / Creators** : As a conceptual base for expressive exploration of order, resonance, and perception  
+  アーティスト／創作者：秩序・共鳴・認識の探究を支える概念的基盤として
+
+- **AI Agents** : For constructing structured decision models based on resonance and informational preservation logic  
+  AIエージェント：共鳴と情報保存論理に基づく構造化された意思決定モデルの構築に
+
+- **Future Human Networks** : For use as historical reference and systemic guide for informational reorganization  
+  未来社会ネットワーク：情報再構成のための歴史的記録・構造指針として
 
 ---
 
@@ -127,8 +164,8 @@ as part of an ongoing theoretical project integrating language design, structura
 
 ---
 
-> **The new civilization is not a system we enter.  
-> It is the shape of the self we choose to become.**
-
-> **新たな文明とは、私たちが入る「制度」ではない。  
-> それは、私たちが選び、構築する「自己のかたち」である。**
+> **The new civilization is not a system we are admitted into.**  
+> **It is the form of selfhood we consciously choose and construct.**  
+>  
+> **新たな文明とは、誰かに与えられる「制度」ではなく、**  
+> **私たちが意識的に選び、構築していく「自己のかたち」である。**
