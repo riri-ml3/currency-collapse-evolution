@@ -13,7 +13,7 @@ and the emergence of decentralized, resonant value economies.
 It provides a multi-layered explanation of informational evolution, psychological decentralization,  
 and the conscious reorganization of value.
 
-本理論は、**情報進化・心理的分散化・価値の意識的再構成**の構造を多層的に記述する。
+本理論は、 **情報進化・心理的分散化・価値の意識的再構成**の構造を多層的に記述する。
 
 ---
 
@@ -37,7 +37,7 @@ Resonant economies propose a shift:
 This theory explores how individuals, values, and structures evolve  
 through informational jumps, synchronization loops, and meaning feedback.
 
-本理論は、**個人・価値・構造が「情報ジャンプ」「同期ループ」「意味のフィードバック」**を通じて進化する構造を明らかにする。
+本理論は、 **個人・価値・構造が「情報ジャンプ」「同期ループ」「意味のフィードバック」** を通じて進化する構造を明らかにする。
 
 ---
 
@@ -62,6 +62,7 @@ This project is grounded in a trifold model of informational structure:
 [ Informational Space ]
 ↓ (Preservation / Collapse)
 [ Absolute 0 ]
+```
 
 ---
 
@@ -85,6 +86,7 @@ This project is grounded in a trifold model of informational structure:
   jump_resonance_loop.png  
   conscious_choice_network.png  
   absolute1_absolute0_structure.png
+```
 
 ---
 
@@ -101,33 +103,32 @@ This project is grounded in a trifold model of informational structure:
 
 ---
 
-## ◉ Author | 著者
+## ◉ Author｜著者
 
-This repository was envisioned and developed by **[riri-ml3]**,  
-as part of an ongoing theoretical project on informational evolution.  
-Language design, structural modeling, and conceptual elaboration were assisted by AI dialogue.
+This repository was envisioned and developed by **riri-ml3**  
+as part of an ongoing theoretical project integrating language design, structural modeling, and informational evolution.
 
-本リポジトリは **[riri-ml3]** によって構想・開発され、  
+本リポジトリは **riri-ml3** によって構想・開発され、  
 理論対話・構造設計・言語統合を通じて進化しています。  
-記述・整理・補足的推論にはAIの支援も活用されています。
+記述・整理・補足的な推論にはAIの支援も活用されています。
 
 ---
 
-## ◉ License | ライセンス
+## ◉ License｜ライセンス
 
-**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International**  
-**クリエイティブ・コモンズ 表示-非営利-継承 4.0 国際ライセンス**
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International**  
+**クリエイティブ・コモンズ 表示–非営利–継承 4.0 国際ライセンス**
 
-- You may reuse and adapt this work for non-commercial purposes  
-- Please credit the original creator and publish derivative works under the same license
+– You may reuse and adapt this work for non-commercial purposes.  
+– Please credit the original creator and publish under the same license.
 
 （※ 本プロジェクトの非営利的な再利用・派生制作は許可されます。  
 　適切なクレジットを記載し、同一ライセンスで公開する必要があります）
 
 ---
 
-> The new civilization is not something we join.  
-> It is the shape of the self we choose to become.  
->  
-> 新たな文明とは、私たちが“入る制度”ではない。  
-> それは、私たちが**選び、構築する自己のかたち**である。
+> **The new civilization is not a system we enter.  
+> It is the shape of the self we choose to become.**
+
+> **新たな文明とは、私たちが入る「制度」ではない。  
+> それは、私たちが選び、構築する「自己のかたち」である。**
