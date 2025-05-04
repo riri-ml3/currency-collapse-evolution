@@ -24,11 +24,11 @@ As traditional anchors vanish, individuals face deep existential uncertainty.
 伝統的な支えが消えることで、個人は深い存在的不安に直面している。
 
 - “Who am I without a company?”  
-  「会社の肩書きがなければ、私は何者か？」  
+  「肩書きがなければ、私は何者か？」  
 - “Where do I belong in a society with no clear center?”  
-  「中心のない社会で、私はどこに属するのか？」  
+  「中心のない社会で、自分はどこに属するのか？」  
 - “What value do I hold if not defined by job or income?”  
-  「職業や収入で定義されないなら、私はどんな価値を持つのか？」
+  「職業や収入で定義されないなら、自分はどんな価値を持つのか？」
 
 These are not temporary crises, but the opening conditions of a new structure.  
 これらは一時的な危機ではなく、新たな構造の幕開けである。
