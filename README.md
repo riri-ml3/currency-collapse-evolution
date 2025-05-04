@@ -207,10 +207,11 @@ These supplementary models provide a deeper view of the origin, fluctuation, and
 
 ---
 
-## ◉ Author｜著者
+## ◎ Author ｜ 著者
 
 This repository was envisioned and developed by **riri-ml3**  
-as part of an ongoing theoretical project integrating language design, structural modeling, and informational evolution.
+as part of an ongoing theoretical project integrating language design, structural modeling, and informational evolution.  
+AI assistance is also utilized for documentation, refinement, and supplementary inference throughout the development.
 
 本リポジトリは **riri-ml3** によって構想・開発され、  
 理論対話・構造設計・言語統合を通じて進化しています。  
