@@ -15,7 +15,7 @@ As discussed, centralized currencies (fiat money) are losing their effectiveness
   所有に基づく構造は、格差と断絶を生む  
 
 Thus, value must now be measured in terms of **resonance, contribution, and connection.**  
-ゆえに、これからの価値は「共鳴」「貢献」「接続性」によって測定されねばならない。
+ゆえに、これからの価値は「共鳴」「貢献」「接続性」によって測定される必要がある。
 
 ---
 
@@ -37,14 +37,13 @@ The evaluation economy is a structure where:
 
 ---
 
-## From Money to Resonance Scores  
-## 貨幣から共鳴スコアへ
+### From Money to Resonance Scores
 
-| 現代（資本主義） | 未来（評価経済） |
-|------------------|------------------|
-| 所有（お金・物） | 共鳴（情報・関係） |
-| 競争・排他性      | 接続・共創         |
-| 労働＝時間の切り売り | 貢献＝意味と選択の記録 |
+| Capitalism (Today)              | Evaluation Economy (Future)                 |
+|--------------------------------|---------------------------------------------|
+| Ownership (Money, Goods)       | Resonance (Information, Relations)          |
+| Competition, Exclusivity       | Connection, Co-creation                     |
+| Labor = Selling Time           | Contribution = Records of Meaning and Choice |
 
 ---
 
